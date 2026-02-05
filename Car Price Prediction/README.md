@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction — End-to-End ML Pipeline
+# 🚗 Car Price Prediction
 
 This project implements a **production-oriented machine learning pipeline** to predict car prices using structured tabular data. The workflow covers **data preprocessing, baseline modeling, ensemble modeling, tuning, and metric-driven model selection**, with final deployment recommendations based on empirical performance.
 
